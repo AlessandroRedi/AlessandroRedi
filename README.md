@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Here are some of my project!
+- I'm Alessandro, a Master's degree student at Politecnico di Torino in italy.
+- 🔭 I’m currently working on <src:>
+- I'm interested in machine learning, IoT technologies, data analysis, operational research ecc...
+- Now I'm searching for a theses to start it in march
+
+Here down below there are some of my project!
