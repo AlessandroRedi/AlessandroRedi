@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - I'm interested in machine learning, IoT technologies, data analysis, operational research, etc...
 - Now I'm searching for a thesis to start in March
 
-Here down there below are some of my projects!
+Here below there are some of my projects!
