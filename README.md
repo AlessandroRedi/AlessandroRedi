@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I'm Alessandro, a Master's degree student at Politecnico di Torino in Italy.
-- 🔭 I’m currently working on <src:>
+- 🔭 I’m currently working on ![MyWork](https://github.com/Smart-greenhouse-for-IoT/SmartGreenhouse)
 - I'm interested in machine learning, IoT technologies, data analysis, operational research, etc...
 - Now I'm searching for a thesis to start in March
 
