@@ -24,6 +24,7 @@ Here below there are some of my projects!
 
 
 If you want to reach out...
+</a> 
 <a href="https://www.instagram.com/alessandroredi_/">
 
   <img align="left" alt="Alessandro's Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
