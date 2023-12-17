@@ -22,23 +22,23 @@ I'm Alessandro, here there are some of my information:
 
 Here below there are some of my projects!
 
-<!--
-If you want to reach out...
-<a href="https://www.instagram.com/federicovolponi/">
 
-  <img align="left" alt="Federico's Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
+If you want to reach out...
+<a href="https://www.instagram.com/alessandroredi_/">
+
+  <img align="left" alt="Alessandro's Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
 
 </a>  
 
-   <a href="https://www.linkedin.com/in/federico-volponi-7aa5b2235/">
+   <a href="https://linkedin.com/in/alessandro-redi-12z">
 
-  <img align="left" alt="Federico's linkedin" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  <img align="left" alt="Alessandro's linkedin" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+
+</a>
+
+   <a href="mailto:alessandroredi1@gmail.com">
+
+  <img align="left" alt="Alessandro's Email Address" width="40px" src="https://www.pngkit.com/png/full/84-841048_envelop-email-icon-email-icon-png-red.png" />
 
 </a>
 
-   <a href="mailto:federicovolponi99@gmail.com">
-
-  <img align="left" alt="Federico's Email Address" width="40px" src="https://www.pngkit.com/png/full/84-841048_envelop-email-icon-email-icon-png-red.png" />
-
-</a>
--->
