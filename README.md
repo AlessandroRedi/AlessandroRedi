@@ -18,7 +18,7 @@ I'm Alessandro, here there are some of my information:
 - 🎓 I'm a Master's degree student at Politecnico di Torino in Italy.
 - 💻 I’m currently working on ![LogPrécis](https://github.com/SmartData-Polito/logprecis) and other private projects.
 - 🔭 I'm interested in machine learning, LLM, IoT technologies, data analysis, operational research, etc...
-- ⚡ On the 4th of March i've started my thesis project at ![SmartData](https://smartdata.polito.it/) at Politecnico di Torino regarding LLM.
+- ⚡ On the 4th of March i've started my thesis project at ![SmartData](https://smartdata.polito.it) at Politecnico di Torino regarding LLM.
 
 Here below there are some of my projects!
 
